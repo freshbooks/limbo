@@ -3,6 +3,8 @@
 
 ![](https://travis-ci.org/llimllib/limbo.svg?branch=master)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 ## Installation
 
 1. Clone the repo

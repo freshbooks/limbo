@@ -1,0 +1,10 @@
+{
+  "name": "Limbo slackbot",
+  "description": "A Slack chatbot",
+  "repository": "https://github.com/freshbooks/limbo",
+  "logo": "https://slack.global.ssl.fastly.net/93ed/img/services/bots_128.png",
+  "keywords": ["slack", "chat", "bot", "python"],
+  "env": {
+    "SLACK_TOKEN": "Slack bot api token"
+  }
+}
